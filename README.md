@@ -8,3 +8,5 @@ Languages
 
  - **Day 1**: Go
  - **Day 2**: Swift
+ - **Day 3**: Go
+ - **Day 4**: Swift
