@@ -11,3 +11,4 @@ Languages
  - **Day 3**: Go
  - **Day 4**: Swift
  - **Day 5**: Swift
+ - **Day 6**: Swift
