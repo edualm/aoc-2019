@@ -12,3 +12,4 @@ Languages
  - **Day 4**: Swift
  - **Day 5**: Swift
  - **Day 6**: Swift
+ - **Day 7**: Swift
