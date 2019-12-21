@@ -25,3 +25,5 @@ Languages
  - **Day 17**: Swift
  - **Day 18**: Swift
  - **Day 19**: Swift
+ - **Day 20**: Swift
+ - **Day 21**: Swift
