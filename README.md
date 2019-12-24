@@ -28,3 +28,5 @@ Languages
  - **Day 20**: Swift
  - **Day 21**: Swift
  - **Day 22**: Swift
+ - **Day 23**: Swift
+ - **Day 24**: Swift
